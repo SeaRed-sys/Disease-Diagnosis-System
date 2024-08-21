@@ -1,0 +1,43 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.news-list {
+    list-style: none;
+    padding: 0;
+}
+
+.news-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+    .news-item:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+    }
+
+.news-title {
+    font-size: 18px;
+    margin: 0 0 5px 0;
+}
+
+.news-time {
+    font-size: 14px;
+    color: #666;
+}
+
+/* 响应式样式，使内容在小屏幕上更易读 */
+@media (max-width: 600px) {
+    .news-title {
+        font-size: 16px;
+    }
+
+    .news-time {
+        font-size: 12px;
+    }
+}

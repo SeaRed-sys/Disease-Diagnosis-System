@@ -1,0 +1,31 @@
+c:\users\administrator\documents\visual studio 2010\Projects\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.dll
+c:\users\administrator\documents\visual studio 2010\Projects\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.dll
+c:\users\administrator\documents\visual studio 2010\Projects\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.pdb
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.dll
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.pdb
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.dll
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.pdb
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.AssemblyReference.cache
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CoreCompileInputs.cache
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.dll
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.pdb
+F:\林尔正\课程软件\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CopyComplete
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.pdb
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.pdb
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.AssemblyReference.cache
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CoreCompileInputs.cache
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CopyComplete
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.pdb
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\xitongfenxi.pdb
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\bin\Debug\EntityDesign.pdb
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.AssemblyReference.cache
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CoreCompileInputs.cache
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.csproj.CopyComplete
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.dll
+D:\大二课程\大二下\信息系统与分析\期末考试复习重点\fencengdenglu\xitongfenxi\xitongfenxi\obj\Debug\xitongfenxi.pdb
